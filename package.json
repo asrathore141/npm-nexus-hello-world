@@ -12,6 +12,6 @@
     "express": "^4.17.1"
   },
   "publishConfig": {
-    "registry": "http://15.206.81.210:8081/repository/npm-hosted-all/"
+    "registry": "http://13.59.35.215:8081/repository/my-mnp-hosted-repo/"
   }
 }
